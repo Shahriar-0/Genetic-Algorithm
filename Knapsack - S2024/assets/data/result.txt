@@ -1,0 +1,22 @@
+MazMaz: 0.0
+Doogh-e-Abali: 0.0
+Nani: 0.0
+Jooj: 5.53
+Hot-Dog: 0.0
+Chips: 0.0
+Nooshaba: 0.0
+Shokolat: 0.0
+Chocoroll: 0.0
+Cookies: 0.0
+Abnabat: 0.0
+Adams-Khersi: 0.0
+Popcorn: 0.0
+Pastil: 2.7
+Tordilla: 0.0
+Masghati: 0.0
+Ghottab: 0.0
+Saghe-Talaei: 0.0
+Choob-Shoor: 0.0
+Total Weight: 8.23
+Total Value: 18.15
+Fitness: 1.0
